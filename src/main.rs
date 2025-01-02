@@ -23,4 +23,5 @@ fn main () {
         output.metadata().unwrap().len(),
         duration
     );
+    println!("done!!");
 }
